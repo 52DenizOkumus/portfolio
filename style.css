@@ -1,9 +1,9 @@
-.images-container {
+* h1 {
     display: flex;
     justify-content: center;
 }
 
-* h1 {
+.images-container {
     display: flex;
     justify-content: center;
 }
