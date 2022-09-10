@@ -1,20 +1,13 @@
-* {
-    background: whitesmoke;
-
-}
-
-.img {
-    display: flex;
-    justify-content: flex-end;
-}
-
-.img2 {
+.images-container {
     display: flex;
     justify-content: center;
-
 }
 
 * h1 {
     display: flex;
     justify-content: start;
+}
+
+* {
+    background: whitesmoke;
 }
